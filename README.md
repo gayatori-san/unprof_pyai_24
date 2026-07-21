@@ -18,7 +18,7 @@
 # 🏗️ Project Structure
 
 ```text
-.
+📂
 ├── task 24.py
 ├── README.md
 ├── requirements.txt
