@@ -19,7 +19,7 @@
 
 ```text
 .
-├── main.py
+├── task 24.py
 ├── README.md
 ├── requirements.txt
 └── uploads/        (optional)
